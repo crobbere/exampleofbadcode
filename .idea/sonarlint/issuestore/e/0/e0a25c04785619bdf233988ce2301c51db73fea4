@@ -1,0 +1,60 @@
+
+>
+java:S1068"%Remove this unused "l" private field.(ŠÔ¬¸øÿÿÿÿ
+8
+java:S1659"Declare "y" on a separate line.(±šß¯ùÿÿÿÿ
+A	java:S108")Either remove or fill this block of code.(Ï•Š—üÿÿÿÿ
+>
+java:S1068"%Remove this unused "y" private field.(±šß¯ùÿÿÿÿ
+O
+java:S1066"/Merge this if statement with the enclosing one.(Ô®°øþÿÿÿÿ8±á¹§Ã.
+H
+java:S1066"/Merge this if statement with the enclosing one.(ÿ®åöøÿÿÿÿ
+k
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(³˜ÏÀÿÿÿÿÿ
+:
+java:S1481"&Remove this unused "h" local variable.(„¼’Ë
+H
+java:S1066"/Merge this if statement with the enclosing one.(Ô®°øþÿÿÿÿ
+H
+java:S1066"/Merge this if statement with the enclosing one.(”…²üÿÿÿÿ
+4
+java:S1659"!Declare "ver" on a separate line.(Ð”ß>
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(±þ÷žøÿÿÿÿ
+f
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(…ðúž
+H
+java:S1066"/Merge this if statement with the enclosing one.(¼é•¶ÿÿÿÿÿ
+m
+java:S1104"TMake moetNeem a static final constant or non-public and provide accessors if needed.(‹…ÜÜûÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+8
+java:S1659"Declare "p" on a separate line.(ñÈÅËÿÿÿÿÿ
+8
+java:S1659"Declare "l" on a separate line.(ŠÔ¬¸øÿÿÿÿ
+k
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ù‘‚‹üÿÿÿÿ
+A	java:S108")Either remove or fill this block of code.(Ï•Š—üÿÿÿÿ
+C
+java:S1066"/Merge this if statement with the enclosing one.(¶®ÚÁ
+f
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 72 to the 15 allowed.(Š×•Ö
+>
+java:S1068"%Remove this unused "v" private field.(ŠÔ¬¸øÿÿÿÿ
+>
+java:S1068"%Remove this unused "x" private field.(±šß¯ùÿÿÿÿ
+e
+java:S1104"QMake klaar a static final constant or non-public and provide accessors if needed.(• úŽ
+A	java:S108")Either remove or fill this block of code.(Ï•Š—üÿÿÿÿ
+d
+java:S1450"PRemove the "z" field and declare it as a local variable in the relevant methods.(ð‡ƒ¼
+9
+java:S1068"%Remove this unused "z" private field.(ð‡ƒ¼
+A	java:S108")Either remove or fill this block of code.(Ï•Š—üÿÿÿÿ
+:
+java:S1481"&Remove this unused "u" local variable.(ª‹ÙÁ
+k
+java:S1104"WMake geactiveerd a static final constant or non-public and provide accessors if needed.(ËÊ¸·
+a
+java:S1871"MThis branch's code block is the same as the block for the branch on line 319.(ÞÜ˜ë
